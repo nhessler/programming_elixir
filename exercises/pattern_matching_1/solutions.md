@@ -1,3 +1,6 @@
+Exercise PatternMatching-1
+==========================
+
 ```elixir
 
 a = [1, 2, 3]       # Matches, a set to [1, 2, 3]
