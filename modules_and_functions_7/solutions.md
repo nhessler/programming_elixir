@@ -1,4 +1,4 @@
-Exercise ModulesAndFunctions-6
+Exercise ModulesAndFunctions-7
 ==============================
 
 ```elixir
