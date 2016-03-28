@@ -1,11 +1,14 @@
 Exercise ListsAndRecursion-7
 ============================
 
-```elixir
+### Question
 
-# In the last exercise of Chapter 7, ​Lists and Recursion​, you wrote a
-# span function. Use it and list comprehensions to return a list of
-# the prime numbers from 2 to n.
+In the last exercise of Chapter 7, ​*Lists and Recursion*​, you wrote a `span` function. Use it and list comprehensions to return a list of the prime numbers from 2 to *n*.
+
+
+### Answer
+
+```elixir
 
 defmodule MyList do
 

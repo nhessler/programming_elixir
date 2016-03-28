@@ -1,6 +1,13 @@
 Exercise ListsAndRecursion-4
 ============================
 
+### Question
+
+Write a function `MyList.span(from, to)` that returns a list of the numbers from `from` up to `to`.
+
+
+### Answer
+
 ```elixir
 
 # Write a function MyList.span(from, to) that returns a list of the

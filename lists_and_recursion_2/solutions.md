@@ -1,10 +1,14 @@
 Exercise ListsAndRecursion-2
 ============================
 
-```elixir
+### Question
 
-# Write a max(list) that returns the element with the maximum value in
-# the list. (This is slightly trickier than it sounds.)
+Write a `max(list)` that returns the element with the maximum value in the list. (This is slightly trickier than it sounds.)
+
+
+### Answer
+
+```elixir
 
 defmodule MyList do
   def max_el([head | tail]), do: _max_el(tail, head)

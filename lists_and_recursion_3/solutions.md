@@ -1,15 +1,21 @@
 Exercise ListsAndRecursion-3
 ============================
 
-```elixir
+### Question
 
-# An Elixir single-quoted string is actually a list of individual
-# character codes. Write a caesar(list, n) function that adds n to
-# each list element, wrapping if the addition results in a character
-# greater than z.
-#
-​# iex>​ MyList.caesar(​'ryvkve'​, 13)
-​# ?????? :)
+An Elixir single-quoted string is actually a list of individual character codes. Write a `caesar(list, n)` function that adds n to each list element, wrapping if the addition results in a character greater than *z*.
+
+```shell
+
+​iex>​ MyList.caesar(​'ryvkve'​, 13)
+?????? :)
+
+```
+
+
+### Answer
+
+```elixir
 
 defmodule MyList do
 
