@@ -3,7 +3,7 @@ Exercise ListsAndRecursion-7
 
 ### Question
 
-In the last exercise of Chapter 7, ​*Lists and Recursion*​, you wrote a `span` function. Use it and list comprehensions to return a list of the prime numbers from 2 to *n*.
+In the last exercise of Chapter 7, ​*[Lists and Recursion](https://github.com/nhessler/programming_elixir/tree/master/lists_and_recursion_4)*​, you wrote a `span` function. Use it and list comprehensions to return a list of the prime numbers from 2 to *n*.
 
 
 ### Answer
