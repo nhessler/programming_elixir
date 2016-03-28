@@ -1,14 +1,20 @@
 Exercise ModulesAndFunctions-2
 ==============================
 
-```elixir
+### Question
 
-# Run the result in iex. Use both techniques to compile the file.
+Run the result in iex. Use both techniques to compile the file.
+
+
+### Answer
+
+```shell
 
 # compile on load
-iex times.exs
+$ iex times.exs
 
 # compile in iex
-c "times.iex"
+$ iex
+iex> c "times.iex"
 
 ```

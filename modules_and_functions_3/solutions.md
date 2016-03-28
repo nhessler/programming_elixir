@@ -1,9 +1,14 @@
 Exercise ModulesAndFunctions-3
 ==============================
 
-```elixir
+### Question
 
-# Add a quadruple function. (Maybe it could call the double function.)
+Add a `quadruple` function. (Maybe it could call the `double` function.…)
+
+
+### Answer
+
+```elixir
 
 defmodule Times do
   def double(n), do: n * 2
