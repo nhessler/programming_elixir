@@ -1,10 +1,14 @@
 Exercise StringsAndBinaries-1
 =============================
 
-```elixir
+### Question
 
-# Write a function that returns true if a single-quoted string
-# contains only printable ASCII characters (space through tilde).
+Write a function that returns **true** if a single-quoted string contains only printable ASCII characters (space through tilde).
+
+
+### Answer
+
+```elixir
 
 defmodule Ascii do
 

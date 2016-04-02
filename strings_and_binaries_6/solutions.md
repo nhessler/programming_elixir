@@ -1,14 +1,21 @@
 Exercise StringsAndBinaries-6
 =============================
 
-```elixir
+### Question
 
-# Write a function to capitalize the sentences in a string. Each
-# sentence is terminated by a period and a space. Right now, the case
-# of the characters in the string is random.
-#
-​#	​iex>​ capitalize_sentences(​"​​oh. a DOG. woof. "​)
-​#	"Oh. A dog. Woof. ”
+Write a function to capitalize the sentences in a string. Each sentence is terminated by a period and a space. Right now, the case of the characters in the string is random.
+
+```shell
+
+​iex>​ capitalize_sentences(​"​​oh. a DOG. woof. "​)
+"Oh. A dog. Woof."
+
+```
+
+
+### Answer
+
+```elixir
 
 defmodule MyString do
 

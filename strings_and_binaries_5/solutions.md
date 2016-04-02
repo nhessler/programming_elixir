@@ -1,6 +1,22 @@
 Exercise StringsAndBinaries-5
 =============================
 
+### Question
+
+Write a function that takes a list of dqs and prints each on a separate line, centered in a column that has the width of the longest string. Make sure it works with UTF characters.
+
+```shell
+
+​iex>​ center([​"​​cat"​, ​"​​zebra"​, ​"​​elephant"​])
+  cat
+ zebra
+elephant
+
+```
+
+
+### Answer
+
 ```elixir
 
 # Write a function that takes a list of dqs and prints each on a

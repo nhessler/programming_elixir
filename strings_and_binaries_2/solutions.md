@@ -1,6 +1,13 @@
 Exercise StringsAndBinaries-2
 =============================
 
+### Question
+
+Write an **anagram?(word1, word2)** that returns true if its parameters are anagrams.
+
+
+### Answer
+
 ```elixir
 
 # Write an anagram?(word1, word2) that returns true if its parameters
