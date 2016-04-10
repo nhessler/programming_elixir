@@ -41,4 +41,4 @@ end
 ```
 
 * It should not be deterministic in theory, but has been so far in practice
-* You could add pattern matching in each receive to guarantee order
+* You could add pattern matching in each receive to guarantee order. Or, have a recieve that catches one case and starts a receive for the next case
